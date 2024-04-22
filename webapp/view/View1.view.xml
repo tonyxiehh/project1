@@ -114,6 +114,10 @@
 							<Input width="100%" id="__input6"/>
 							<Label text="Country" width="100%" id="__label10"/>
 							<Input width="100%" id="__input7"/>
+
+
+			
+						
 						</items>
 					</HBox>
 				</content>
